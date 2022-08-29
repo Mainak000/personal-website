@@ -1,0 +1,12 @@
+div{
+    border: 2px solid red;
+    height: 150px;
+    width: 100px;
+    margin: 2px;
+    display: inline-block;
+}
+
+.a{
+    position: relative;
+    left: 100px;
+}
